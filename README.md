@@ -28,9 +28,9 @@ Enter / for division
 Enter q to quit the application
 
 ## Navigate to the project directory
-cd JAVA
+```cd JAVA```
 ## Compile the Java files
-javac Calculator.java CalculatorApp.java
+```javac Calculator.java CalculatorApp.java```
 ## Run the application
-java CalculatorApp
+```java CalculatorApp```
 
